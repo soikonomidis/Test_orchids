@@ -1,0 +1,85 @@
+
+                    <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+                    <head><meta charset='utf-8'><title>Orchid Data</title>
+                    <style>
+                        body { font-family: 'Segoe UI', Arial, sans-serif; color: #333; }
+                        h1 { color: #2d6a4f; text-align: center; border-bottom: 2px solid #d8f3dc; padding-bottom: 10px; }
+                        h2 { color: #1b4332; background-color: #fdfbf7; padding: 5px; margin-top: 20px; border-left: 4px solid #2d6a4f; }
+                        table { width: 100%; border-collapse: collapse; margin-bottom: 15px; }
+                        th, td { border: 1px solid #e2e8f0; padding: 8px; text-align: left; vertical-align: top; }
+                        th { background-color: #f8fafc; width: 35%; color: #475569; }
+                    </style>
+                    </head>
+                    <body>
+                        <h1>Standard Orchid Ecological Data</h1>
+                        <h2>1. Observer & Metadata</h2>
+                        <table>
+                            <tr><th>Observer Name(s)</th><td>egggq</td></tr>
+                            <tr><th>Institution / Org</th><td>gqeqgeqg</td></tr>
+                            <tr><th>Date & Time</th><td>2026-03-11 </td></tr>
+                            <tr><th>Survey Type</th><td></td></tr>
+                        </table>
+
+                        <h2>2. Locality & Geospatial Data</h2>
+                        <table>
+                            <tr><th>Country & Region</th><td>qgeqge, gqegqe</td></tr>
+                            <tr><th>Site Name</th><td>qgegqe</td></tr>
+                            <tr><th>Coordinates (Lat, Lng)</th><td>, </td></tr>
+                            <tr><th>Datum & Accuracy</th><td>WGS84 |  m</td></tr>
+                            <tr><th>Elevation (m)</th><td> to </td></tr>
+                            <tr><th>Topography / Slope / Aspect</th><td> | 1° | </td></tr>
+                        </table>
+
+                        <h2>3. Taxonomic Identification</h2>
+                        <table>
+                            <tr><th>Species / Subspecies</th><td>31t1t31t </td></tr>
+                            <tr><th>ID Certainty & Method</th><td> | </td></tr>
+                            <tr><th>Expert Name</th><td></td></tr>
+                        </table>
+
+                        <h2>4. Habitat & Ecology</h2>
+                        <table>
+                            <tr><th>Growth Form / Host Tree</th><td> | </td></tr>
+                            <tr><th>Habitat & Substrate</th><td> | </td></tr>
+                            <tr><th>Light & Moisture</th><td> | </td></tr>
+                            <tr><th>Associated Vegetation</th><td></td></tr>
+                        </table>
+
+                        <h2>5. Population Metrics</h2>
+                        <table>
+                            <tr><th>Total Count (Mature / Immature)</th><td> (1113 / )</td></tr>
+                            <tr><th>Reproductive (Flowers / Capsules)</th><td>Plants w/ Flowers: 13 (Fl/Infl: 13) | Plants w/ Capsules: </td></tr>
+                            <tr><th>Distribution / New Subpop?</th><td> | </td></tr>
+                        </table>
+
+                        <h2>6. Phenology</h2>
+                        <p>None indicated</p>
+
+                        <h2>7. Ecological Interactions</h2>
+                        <table>
+                            <tr><th>Pollinator Observed</th><td>: </td></tr>
+                            <tr><th>Herbivory</th><td>: </td></tr>
+                            <tr><th>Disease/Pathogens</th><td>: </td></tr>
+                        </table>
+
+                        <h2>8. Threats & Pressures</h2>
+                        <table>
+                            <tr><th>Threat</th><th>Present?</th><th>Severity</th><th>Notes</th></tr>
+                            <tr><td>Over-collection / Poaching</td><td>No</td><td></td><td></td></tr><tr><td>Habitat Clearance / Deforestation</td><td>No</td><td></td><td></td></tr><tr><td>Logging / Selective extraction</td><td>No</td><td></td><td></td></tr><tr><td>Livestock Grazing / Trampling</td><td>No</td><td></td><td></td></tr><tr><td>Invasive Alien Species</td><td>No</td><td></td><td></td></tr><tr><td>Altered Fire Regime</td><td>No</td><td></td><td></td></tr><tr><td>Climate / Weather (Drought/Landslide)</td><td>No</td><td></td><td></td></tr>
+                        </table>
+                        <p><strong>Additional Threat Notes:</strong> </p>
+
+                        <h2>9. Conservation & Specimen Data</h2>
+                        <table>
+                            <tr><th>Inside Protected Area?</th><td></td></tr>
+                            <tr><th>Photographs Taken?</th><td>: </td></tr>
+                            <tr><th>Herbarium Voucher?</th><td> (Coll #: , Indivs: )</td></tr>
+                            <tr><th>Seeds Collected?</th><td> (Acc: , Indivs: , Pods: , Mat: )</td></tr>
+                            <tr><th>DNA/Tissue Sample?</th><td></td></tr>
+                        </table>
+
+                        <h2>10. Additional Notes</h2>
+                        <p></p>
+                    </body>
+                    </html>
+                
