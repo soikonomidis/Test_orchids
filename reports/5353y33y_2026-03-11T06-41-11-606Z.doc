@@ -1,0 +1,73 @@
+
+                    <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+                    <head><meta charset='utf-8'><title>Orchid Data</title>
+                    <style>
+                        body { font-family: 'Segoe UI', Arial, sans-serif; color: #333; }
+                        h1 { color: #2d6a4f; text-align: center; border-bottom: 2px solid #d8f3dc; padding-bottom: 10px; }
+                        h2 { color: #1b4332; background-color: #fdfbf7; padding: 5px; margin-top: 20px; border-left: 4px solid #2d6a4f; }
+                        table { width: 100%; border-collapse: collapse; margin-bottom: 15px; }
+                        th, td { border: 1px solid #e2e8f0; padding: 8px; text-align: left; vertical-align: top; }
+                        th { background-color: #f8fafc; width: 35%; color: #475569; }
+                    </style>
+                    </head>
+                    <body>
+                        <h1>Standard Orchid Ecological Data</h1>
+                        
+                        <h2>1. Observer & Metadata</h2>
+                        <table>
+                            <tr><th>Observer Name(s)</th><td>5353y33y</td></tr>
+                            <tr><th>Institution / Org</th><td>y353y53y5</td></tr>
+                            <tr><th>Date</th><td>2026-03-11</td></tr>
+                            <tr><th>Time</th><td></td></tr>
+                            <tr><th>Survey Type</th><td></td></tr>
+                        </table>
+
+                        <h2>2. Locality & Geospatial Data</h2>
+                        <table>
+                            <tr><th>Country</th><td>y35y5</td></tr>
+                            <tr><th>Region/Province</th><td>3y535yy35</td></tr>
+                            <tr><th>Site / Protected Area Name</th><td>3yy53y5</td></tr>
+                            <tr><th>Latitude (DD)</th><td>35353535</td></tr>
+                            <tr><th>Longitude (DD)</th><td>353535</td></tr>
+                            <tr><th>GPS Accuracy (m)</th><td>353535</td></tr>
+                            <tr><th>Elevation Min (m)</th><td>3535</td></tr>
+                            <tr><th>Elevation Max (m)</th><td>33535</td></tr>
+                            <tr><th>Slope Angle (°)</th><td>3535</td></tr>
+                        </table>
+
+                        <h2>3. Taxonomic Identification</h2>
+                        <table>
+                            <tr><th>Species Name</th><td>y353y53y5</td></tr>
+                            <tr><th>Subspecies / Variety</th><td>y533y5</td></tr>
+                            <tr><th>Identification Certainty</th><td></td></tr>
+                            <tr><th>ID Method</th><td></td></tr>
+                            <tr><th>Expert Name</th><td></td></tr>
+                        </table>
+
+                        <h2>5. Population Metrics</h2>
+                        <table>
+                            <tr><th>Total Individuals Counted</th><td>35</td></tr>
+                            <tr><th>Mature (Reproducing)</th><td>35</td></tr>
+                            <tr><th>Immature / Seedlings</th><td>3535</td></tr>
+                            <tr><th>Plants with Flowers</th><td>35</td></tr>
+                            <tr><th>Flower number/inflorescence</th><td>3535</td></tr>
+                            <tr><th>Plants with Capsules</th><td>353535</td></tr>
+                        </table>
+
+                        <h2>8. Threats & Pressures</h2>
+                        <table>
+                            <tr><th>Over-collection / Poaching</th><td>Present: <strong>Yes</strong><br>Severity: Medium</td></tr>
+                            <tr><th>Habitat Clearance / Deforestation</th><td>Present: <strong>Yes</strong><br>Severity: High</td></tr>
+                            <tr><th>Logging / Selective extraction</th><td>Present: <strong>Yes</strong><br>Severity: High</td></tr>
+                            <tr><th>Livestock Grazing / Trampling</th><td>Present: <strong>No</strong><br>Severity: N/A</td></tr>
+                            <tr><th>Invasive Alien Species</th><td>Present: <strong>No</strong><br>Severity: N/A</td></tr>
+                            <tr><th>Altered Fire Regime</th><td>Present: <strong>No</strong><br>Severity: N/A</td></tr>
+                            <tr><th>Climate / Weather (Drought)</th><td>Present: <strong>No</strong><br>Severity: N/A</td></tr>
+                            <tr><th>Additional Threat Notes</th><td>35y3y5</td></tr>
+                        </table>
+
+                        <h2>10. Additional Notes</h2>
+                        <p>3y5y35</p>
+                    </body>
+                    </html>
+                
